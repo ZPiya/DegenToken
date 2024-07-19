@@ -1,4 +1,4 @@
-### README for DegenToken Project
+### DegenToken Project
 
 ---
 
